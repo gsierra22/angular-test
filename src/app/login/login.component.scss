@@ -22,5 +22,22 @@
         text-align: right;
         width: 1200px;
     }
+    .film{
+        position: absolute;
+        top: 50px;
+        left: 50px;
+        width: 618px;
+    }
+    .login-form{
+        width: 500px;
+        height: 300px;
+        padding: 20px;
+        background-color: white;
+        border-radius: 10px;
+        position:absolute;
+        bottom: 50px;
+        right: 50px;
+        box-shadow: 5px 5px 20px #383838;
+    }
 
 }
